@@ -1,0 +1,111 @@
+[
+  {
+    "id": "07450450-030d-4ed0-a97e-0d938bb1f502",
+    "title": "Camiseta de algodón",
+    "description": "Camiseta cómoda y suave de algodón orgánico",
+    "price": 20.99,
+    "thumbnail": "https://example.com/camiseta.png",
+    "code": "CAM001",
+    "stock": 50,
+    "category": "Ropa",
+    "status": true
+  },
+  {
+    "id": "063e3f2c-0406-4add-938d-6e4aa8f7dd04",
+    "title": "Laptop HP",
+    "description": "Laptop de alta calidad para trabajo y entretenimiento",
+    "price": 899.99,
+    "thumbnail": "https://example.com/laptop.png",
+    "code": "LAP001",
+    "stock": 20,
+    "category": "Electrónica",
+    "status": true
+  },
+  {
+    "id": "00ebb9c8-94f7-470e-b073-e393d2341fe9",
+    "title": "Zapatillas deportivas Nike",
+    "description": "Zapatillas de alta calidad para entrenamiento y competición",
+    "price": 129.99,
+    "thumbnail": "https://example.com/zapatillas.png",
+    "code": "ZAP001",
+    "stock": 10,
+    "category": "Deportes",
+    "status": true
+  },
+  {
+    "id": "252af79d-fd9a-4e84-90f3-7b9d654641b5",
+    "title": "Juego de mesa Monopoly",
+    "description": "Juego de mesa clásico para divertirse en familia y amigos",
+    "price": 39.99,
+    "thumbnail": "https://example.com/monopoly.png",
+    "code": "JUE001",
+    "stock": 30,
+    "category": "Juegos",
+    "status": true
+  },
+  {
+    "id": "211c3bb3-1779-4d71-984b-c33f23f15e5e",
+    "title": "Lámpara de escritorio LED",
+    "description": "Lámpara de escritorio moderna y eficiente para trabajar y estudiar",
+    "price": 29.99,
+    "thumbnail": "https://example.com/lampara.png",
+    "code": "LAM001",
+    "stock": 15,
+    "category": "Hogar",
+    "status": true
+  },
+  {
+    "id": "bffbfbb3-f6b4-48ad-97cb-f0be28612be5",
+    "title": "Reloj de pulsera Casio",
+    "description": "Reloj de alta calidad y duradero para el uso diario",
+    "price": 79.99,
+    "thumbnail": "https://example.com/reloj.png",
+    "code": "REL001",
+    "stock": 5,
+    "category": "Moda",
+    "status": true
+  },
+  {
+    "id": "6fb89a48-0ece-4582-92fa-d7d7b9d69e52",
+    "title": "Silla de escritorio ergonómica",
+    "description": "Silla de oficina cómoda y ajustable para prevenir dolores de espalda",
+    "price": 159.99,
+    "thumbnail": "https://example.com/silla.png",
+    "code": "SIL001",
+    "stock": 25,
+    "category": "Muebles",
+    "status": true
+  },
+  {
+    "id": "549fdb0f-bdab-4720-9003-04836b2cf322",
+    "title": "Juego de cuchillos de cocina",
+    "description": "Juego de cuchillos de alta calidad para cortar y preparar alimentos",
+    "price": 89.99,
+    "thumbnail": "https://example.com/cuchillos.png",
+    "code": "CUC001",
+    "stock": 8,
+    "category": "Cocina",
+    "status": true
+  },
+  {
+    "id": "c628627f-ec71-402b-8a3a-5568a6763a53",
+    "title": "Gafas de sol Ray-Ban",
+    "description": "Gafas de sol clásicas de Ray-Ban con protección UV",
+    "price": 99.99,
+    "thumbnail": "https://example.com/gafas.png",
+    "code": "GAF001",
+    "stock": 10,
+    "category": "Accesorios",
+    "status": true
+  },
+  {
+    "id": "a6d25295-141a-40cc-adb6-8222aea21067",
+    "title": "Pelota de fútbol Adidas",
+    "description": "UPDATEDDDDDDDDDPelota oficial de fútbol de Adidas para partidos y entrenamientos",
+    "price": 12222.99,
+    "thumbnail": "https://example.com/pelota.png",
+    "code": "PEL001",
+    "stock": 4012323,
+    "category": "UPDATEDDDDDEEDEDEDEDEDDED",
+    "status": true
+  }]
